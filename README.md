@@ -15,6 +15,8 @@
 ## DESCRIPTION
 The code is designed to perform text summarization using the Hugging Face Transformers library. Specifically, it utilizes a pre-trained model to summarize a lengthy input text into a more concise version, making it easier to digest The task is to summarize a given text using a transformer-based model from Hugging Face. The pipeline being used is specifically for text summarization. This model takes an input text (usually long or complex), processes it, and returns a concise summary
 
+EDITOR PLATFORM: VS CODE
+
 Key Steps in the Code:
 Install dependencies:
 !pip install transformers – Installs the Hugging Face transformers library, which includes pre-trained models for tasks like text summarization, translation, and more.
