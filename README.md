@@ -36,6 +36,7 @@ Automated Report Generation: This can be used for summarizing lengthy reports, r
 Natural Language Processing (NLP): This demonstrates a basic application of NLP, specifically in extracting the main ideas from larger bodies of text.
 
 # OUTPUT:
+![Image](https://github.com/user-attachments/assets/3ecaa560-546e-4108-a9dc-e587bac0964f)
 
 
 
